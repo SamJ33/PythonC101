@@ -35,8 +35,8 @@ This repo contains python applications from Beginner to advanced
 Follow these steps to clone and set up the repository:
 
 git clone https://github.com/SamJ33/PythonC101.git
+
 cd PythonC101
-pip install -r requirements.txt  # If applicable
 
 **Usage**
 
