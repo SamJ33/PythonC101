@@ -1,7 +1,9 @@
 # PythonC101
-*Description*:
+
+**Description**:
 This repo contains python applications from Beginner to advanced
-Table of Contents
+
+**Table of Contents**
 
 Java vs Python vs C++ Code
 
@@ -27,9 +29,8 @@ Contributing
 
 License
 
-Contact
 
-*Installation*
+**Installation**
 
 Follow these steps to clone and set up the repository:
 
@@ -37,13 +38,13 @@ git clone https://github.com/SamJ33/PythonC101.git
 cd PythonC101
 pip install -r requirements.txt  # If applicable
 
-*Usage*
+**Usage**
 
 To run an application, navigate to its directory and execute the script:
 
 python script_name.py
 
-*Features*
+**Features**
 
 Collection of Python applications from different teams
 
@@ -51,11 +52,11 @@ Covers beginner to advanced levels
 
 Organized repository for easy access and collaboration
 
-*Configuration*
+**Configuration**
 
 If any applications require specific configurations, details should be mentioned here.
 
-*Contributing*
+**Contributing**
 
 Contributions are welcome! Follow these steps:
 
@@ -69,7 +70,7 @@ Push to the branch (git push origin feature-branch)
 
 Open a Pull Request
 
-*License*
+**License**
 
 Specify the license under which the project is distributed (e.g., MIT, GPL, Apache 2.0).
 
