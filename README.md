@@ -5,29 +5,29 @@ This repo contains python applications from Beginner to advanced
 
 **Table of Contents**
 
-Java vs Python vs C++ Code
+- Java vs Python vs C++ Code
 
-Basic Calculator
+- Basic Calculator
 
-Contact List Using Dictionary
+- Contact List Using Dictionary
 
-OOP App
+- OOP App
 
-Data Visualizer using Streamlit
+- Data Visualizer using Streamlit
 
-Web Scraping using Python
+- Web Scraping using Python
 
-Installation
+- Installation
 
-Usage
+- Usage
 
-Features
+- Features
 
-Configuration
+- Configuration
 
-Contributing
+- Contributing
 
-License
+- License
 
 
 **Installation**
@@ -60,15 +60,15 @@ If any applications require specific configurations, details should be mentioned
 
 Contributions are welcome! Follow these steps:
 
-Fork the repository
+1. Fork the repository
 
-Create a new branch (git checkout -b feature-branch)
+2. Create a new branch (git checkout -b feature-branch)
 
-Commit changes (git commit -m 'Add new application')
+3. Commit changes (git commit -m 'Add new application')
 
-Push to the branch (git push origin feature-branch)
+4. Push to the branch (git push origin feature-branch)
 
-Open a Pull Request
+5. Open a Pull Request
 
 **License**
 
