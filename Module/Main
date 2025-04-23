@@ -1,0 +1,23 @@
+# main.py
+
+# Import the functions from your custom module
+from mymodule import greet, add, multiply
+
+# Use the functions
+print(greet("Alice"))
+print(add(5, 3))
+print(multiply(4, 6))
+
+
+"""
+# main.py
+
+# Import everything from mymodule
+from mymodule import *
+
+# Use the functions
+print(greet("Alice"))
+print(add(5, 3))
+print(multiply(4, 6))
+
+"""
