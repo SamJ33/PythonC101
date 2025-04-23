@@ -1,0 +1,14 @@
+def contact_list():
+    contacts = {}  # Empty dictionary
+
+    while True:
+        name = input("Enter contact name (or type 'stop' to finish): ")
+        if name.lower() == "stop":
+            break
+        phone = input("Enter phone number: ")
+        contacts[name] = phone  # Add to dictionary
+
+    # Display the contact list
+    print("\n--- Contact List ---")
+    for name, phone in contacts.items():
+        print(f"{name}: {phone}")
