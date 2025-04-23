@@ -7,10 +7,6 @@ This repo contains python applications from Beginner to advanced
 
 - Java vs Python vs C++ Code
 
-- Basic Calculator
-
-- Contact List Using Dictionary
-
 - OOP App
 
 - Data Visualizer using Streamlit
